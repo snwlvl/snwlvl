@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://64.media.tumblr.com/a91b35ba35d824d871b2c11a2a432f0b/bda479dbf5b39840-a7/s540x810/4df993b052feaadf8c00275921a2683d3f9817f4.gif" width="200" alt="Animated Glitch Effect">
+</div>
+
 # SNWLVL
 
 **Backend Developer | Security Researcher**  
@@ -47,7 +51,7 @@ A tool that utilizes the crt.sh certificate transparency log search to monitor a
 ### [FreeFloat FTP Server Exploit](https://github.com/snwlvl/FreeFloat-FTP-Server-Exploit)
 An exploit script developed for the FreeFloat FTP Server vulnerability. This project demonstrates the exploitation of a buffer overflow vulnerability, showcasing skills in exploit development and security research.
 
-### WireGuard VPN
+### [WireGuard VPN](https://www.wireguard.com/)
 A custom VPN service developed using WireGuard to provide secure and private connectivity for ESME operations, enhancing network security and data protection.
 
 ---
