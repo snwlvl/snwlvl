@@ -37,7 +37,7 @@ I am a backend developer with experience in software development for esports liv
 ### [LiveShare](https://liveshare.arabesports.com/)
 A Django-based management interface for secure video streaming, similar to Restream.io. It enables streaming to multiple platforms simultaneously and uses API-driven SRS reloading for a seamless experience.
 
-### [LiveSync](https://vid.arabesports.com/livesync.html/)
+### [LiveSync](https://vid.arabesports.com/livesync.html)
 A tool that utilizes WebRTC WHIP/WHEP technology to provide lossless, high-quality video transmission from remote cameras. It is designed to ensure reliable and clear video streams for professional esports broadcasts.
 
 ### [Community Automation Tools for PUBGM](https://github.com/snwlvl/PUGM-Community-Automation-Script)
