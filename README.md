@@ -40,7 +40,7 @@ A Django-based management interface for secure video streaming, similar to Restr
 ### [LiveSync](https://vid.arabesports.com/livesync.html)
 A tool that utilizes WebRTC WHIP/WHEP technology to provide lossless, high-quality video transmission from remote cameras. It is designed to ensure reliable and clear video streams for professional esports broadcasts.
 
-### [Community Automation Tools for PUBGM](https://github.com/snwlvl/PUGM-Community-Automation-Script)
+### [Community Automation Tools for PUBGM](https://github.com/snwlvl/PUBGM-Community-Automation-Script)
 Automation tools developed to efficiently filter and analyze data for hundreds of PUBGM players. The tools detect duplicate entries, check player ban statuses, and identify specific account types, using Google Sheets API and pandas.
 
 ### [MPL NodeCG Bundle](https://github.com/snwlvl/mpl-bundle/)
