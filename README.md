@@ -4,8 +4,8 @@
 
 # SNWLVL
 
-**Backend Developer | Security Researcher**  
-Currently working at [ESME](https://es.me) (eSports Middle East) \
+**IT Lead | Security Researcher**  
+Currently employed at [Lovingly Signed](https://lovinglysigned.com.sg) \
 Dubai, UAE  
 Email: [ronsnwlvl@gmail.com](mailto:ronsnwlvl@gmail.com)  
 Phone/WhatsApp: +971 56 463 6527  
@@ -16,14 +16,14 @@ Phone/WhatsApp: +971 56 463 6527
 
 ## About Me
 
-I am a backend developer with experience in software development for esports livestreaming and influencer data platforms. I specialize in building and managing WebRTC livestreaming platforms and integrating secure, real-time streaming solutions. My work also includes backend development for data platforms, setting up professional livestream studios, and conducting security research. I am passionate about creating innovative solutions that enhance digital experiences.
+As an IT Lead and backend developer, I bring a diverse skill set in software development for ecommerce, esports livestreaming, and influencer data platforms. I specialize in building and managing WebRTC livestreaming platforms, integrating secure, real-time streaming solutions, and backend development for data platforms. Additionally, I have expertise in Shopify development and optimization for ecommerce, including SEO, managing paid advertisements on Google and Facebook, and handling various ad hoc technical tasks. My work also extends to setting up professional livestream studios and conducting security research, with a passion for creating innovative solutions that enhance digital experiences.
 
 ---
 
 ## Technical Skills
 
 - **Languages**: Python, JavaScript, PHP, HTML, CSS
-- **Frameworks**: React, Vue.js, ASP.NET Core, Next.js, Flask, Django, SQL
+- **Frameworks**: React, Vue.js, ASP.NET Core, Next.js, Liquid, Flask, Django, SQL
 - **Tools**: Docker, Git, OBS Studio, Unreal Engine
 - **Cloud Computing**: AWS, DigitalOcean, Vercel
 - **DevOps**: CI/CD, SSL/TLS Management, Server Configuration
@@ -57,4 +57,4 @@ A custom VPN service developed using WireGuard to provide secure and private con
 
 ---
 
-I'm open for Hire! Feel free to explore these projects and reach out if you'd like to collaborate.
+Feel free to explore these projects and reach out if you'd like to collaborate!
